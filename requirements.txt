@@ -1,0 +1,4 @@
+pandas
+numpy
+pyarrow
+bokeh==3.2.0
